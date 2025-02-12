@@ -58,11 +58,9 @@ const messages = [
     "Really sure??",
     "Really really sure about it?",
     "One chance please...",
-    "If you say no, I will be really sad...",
     "Please consider it baby!",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "I will be DEPRESSED.",
+    "If you say no, I will be really sad...",
+    "I will be really really really DEPRESSED...",
     "Ok then, I will stop asking...",
     "Just kidding, say yes please! ❤️"
 ];
